@@ -4,7 +4,7 @@
 ![rank](https://make.fun/badge/token-radar-01/tuyullima311-cloud/launch-radar/rank.svg)
 ![reward](https://make.fun/badge/token-radar-01/tuyullima311-cloud/launch-radar/reward.svg)
 
-An entry for make.fun's [Best Token Launch Radar](https://make.fun/c/token-radar-01) bounty.
+An entry for make.fun's [Best Token Launch Radar](https://make.fun/bounty/token-radar-01) bounty.
 
 Launch Radar ranks the protocols in the competition's sealed DefiLlama snapshot that record **no
 token yet** by the value a token launch would carry if the protocol's record stayed as it is — and
