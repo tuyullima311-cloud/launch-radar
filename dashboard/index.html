@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Launch Radar — pre-token protocols ranked by implied value</title>
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <div class="disc" aria-hidden="true"><span class="sweep"></span><span class="blip b1"></span><span class="blip b2"></span><span class="blip b3"></span></div>
+    <div>
+      <h1>Launch Radar</h1>
+      <p class="tagline">Protocols with no token yet, ranked by what a launch would be worth — priced off the market that already trades.</p>
+    </div>
+  </div>
+  <div class="asof" id="asof"></div>
+</header>
+<main id="app" aria-busy="true"></main>
+<footer class="foot">
+  <p><strong>How to read this board.</strong> Every implied value is this radar's own estimate, built only from the sealed snapshot's figures: a protocol's TVL, its category's market-cap-to-TVL multiple among tokens that already trade, its seven-day momentum, its age and its chain count. It is not a prediction that a token will be issued, or when. Farm plans are starting points, not financial advice — check each protocol's own page before committing funds.</p>
+  <p class="src" id="src"></p>
+</footer>
+<script src="../data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
