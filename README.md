@@ -1,8 +1,8 @@
 # Launch Radar — Best Token Launch Radar
 
 ![make.fun token-radar-01](https://make.fun/badge/token-radar-01.svg)
-![rank](https://make.fun/badge/token-radar-01/{owner}/{repo}/rank.svg)
-![reward](https://make.fun/badge/token-radar-01/{owner}/{repo}/reward.svg)
+![rank](https://make.fun/badge/token-radar-01/tuyullima311-cloud/launch-radar/rank.svg)
+![reward](https://make.fun/badge/token-radar-01/tuyullima311-cloud/launch-radar/reward.svg)
 
 An entry for make.fun's [Best Token Launch Radar](https://make.fun/c/token-radar-01) bounty.
 
